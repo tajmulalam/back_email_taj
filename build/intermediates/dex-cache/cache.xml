@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a47ed5296ea207876122bcaace59b25add638313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_75c4011bcf1bba292e2355f5e3a376db3519d498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/GmailBackground/gmailbackgroundlibrary/unspecified/jars/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1ec1665abd1e1a471dc2cb31219bc765d2fd674">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/mail_d19de11eb118be01d8bfce5dcc272a47248d735e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_dfd42138add5aa6d8d0cf8e4e87b7eaa3f247ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/GmailBackground/gmailbackgroundlibrary/unspecified/jars/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57adc1843cc21aa845e27adb0aa32ea9a4537cd9">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/additionnal_307cf87ab9fabf21da5f43602db51714d428a86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_2bf079412b7593da93aa9142e80a688904250255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_eaeccb23f6417f8e0521c086527827fe3c171102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_819c0db65d61c3118523414a544c243db3c34d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_077447f13b0f2710b994a69b3d7df75e9f2f5b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_4dab9b379d311bd2346d925dbf8031169b50cacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_595433ae2ddb9b108214ae1ea4a334af12515a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_ba7fcbb791259ef04faa4f8f34268a9faf0efb01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_b2a65e1c01ae5b91807891f099139ab6d865ce9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/GmailBackground/gmailbackgroundlibrary/unspecified/jars/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caeb02439d439d221f8be4aaf33931153bbe34db">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/activation_7bdd69ca21e374835e5a964c4b84e739f3c36c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_a1cf55b9db44c0644affcb791c1f9f19b84d17ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_80005a7e3e07e2eab7f1ec592eb9367245f7f112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_81b4ca7eed6541d03c86840c9ee79db46c18b1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_4a1e32f6fba606cdcb1422f4e3f28d51b03c7696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_bb7f0791c050daa00bc11678ad09512f4a00a745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_83af7f9085f371f49948a3837544fee5710c6d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_e4f9012980913ed8f14eeaa46f58f1b5d7fa3ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/exploded-aar/GmailBackground/gmailbackgroundlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a4f1fc5756b166324cf16be75d186acf57f4424">
+        <dex dex="/home/tajmul/Desktop/All_Projects/github_proj/GmailBackground/app/build/intermediates/pre-dexed/debug/GmailBackground-gmailbackgroundlibrary-unspecified_0bc9118f4e31a95ca7ab42a748d8e7cafca4bf14.jar" />
+    </item>
+
+</items>
