@@ -12,8 +12,32 @@
     tools:context=".MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <EditText
+        android:id="@+id/etToMail"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/lab_send" />
+        android:hint="To" />
+
+    <EditText
+        android:id="@+id/etSubject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etToMail"
+        android:hint="Subject.." />
+
+    <EditText
+        android:id="@+id/etBody"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/etSubject"
+        android:hint="Body.." />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/etBody"
+        android:layout_margin="20dp"
+        android:text="Send"
+        android:textAllCaps="false" />
 </RelativeLayout>
